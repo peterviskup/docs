@@ -1,0 +1,16 @@
+---
+site_name: Documentácie
+site_url: https://peterviskup.github.io/mkdocs
+site_description: Test mkdocs
+site_author: Peter
+
+repo_url: https://github.com/peterviskup/mkdocs/
+edit_uri: ""
+
+plugins:
+  - search
+  - git-revision-date-localized
+  - awesome-pages
+
+markdown_extensions:
+  - meta
