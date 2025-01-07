@@ -1,10 +1,10 @@
 ---
 site_name: Documentácie
-site_url: https://peterviskup.github.io/doku
+site_url: https://peterviskup.github.io/mkdocs
 site_description: Test mkdocs
 site_author: Peter
 
-repo_url: https://github.com/peterviskup/docs/
+repo_url: https://github.com/peterviskup/mkdocs/
 edit_uri: ""
 
 plugins:
